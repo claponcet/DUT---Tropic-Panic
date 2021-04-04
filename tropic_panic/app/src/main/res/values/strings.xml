@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tropic Panic</string>
+    <string name="play">Jouer</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="scores">Meilleurs Scores</string>
+    <string name="perdu">Perdu !</string>
+</resources>
